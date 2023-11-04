@@ -5,6 +5,7 @@
     "keywords": ["template","am0n"],
     "homepage": "https://github.com/am0n666/am0n_application",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "am0n666",
