@@ -1,9 +1,10 @@
 {
-    "name": "am0n666/am0n-base-application",
+    "name": "am0n666/am0n_application
+",
     "type": "template",
     "description": "A project template to make creating new am0n projects easier.",
     "keywords": ["template","am0n"],
-    "homepage": "https://github.com/am0n666/am0n-base-application",
+    "homepage": "https://github.com/am0n666/am0n_application",
     "license": "MIT",
     "authors": [
         {
